@@ -1,0 +1,7 @@
+{
+  "name": "docviewer-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
